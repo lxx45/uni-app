@@ -1,0 +1,28 @@
+
+.uni-textarea{
+	border: 1rpx solid #EEEEEE;
+}
+.gonggao{
+	width: 520rpx;
+	background: #fff ;
+	padding-bottom: 20rpx;
+	-webkit-border-radius: 6rpx;
+	        border-radius: 6rpx;
+}
+.gonggao-text{
+	width: 470rpx;
+	margin: 0 auto;
+}
+.gonggao image{
+	width: 75%;
+	margin-bottom: 20rpx;
+	padding-top: 20rpx;
+}
+.gonggao button{
+	/* margin: 20upx 20upx 0; */
+	background: #FFE934;
+	color: #171606;
+	width: 470rpx;
+	margin: 20rpx auto 0;
+}
+

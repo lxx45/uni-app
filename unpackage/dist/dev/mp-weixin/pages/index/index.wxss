@@ -1,0 +1,7 @@
+
+.load-more{
+	padding: 10rpx;
+	color: #aaa;
+	text-align: center;
+}
+
