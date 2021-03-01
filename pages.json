@@ -48,7 +48,11 @@
 		},
 		{
 			"path":"pages/news/news",
-			"style":{}
+			"style":{
+				"app-plus":{
+					"titleNView":false
+				}
+			}
 		},
 		{
 			"path":"pages/paper/paper",
